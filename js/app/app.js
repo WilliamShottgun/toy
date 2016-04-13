@@ -25,7 +25,7 @@ app.controller('principal', function ($scope, $http, $rootScope) {
             }
         }
     };
-    <x<x<zx<zx<z
+  
 
     $scope.listado_producto = function () {
         for (var i = 0; i < $scope.sub_categorias.length; i++) {
